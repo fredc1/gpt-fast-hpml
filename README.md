@@ -51,7 +51,10 @@ python quantize.py --checkpoint_path checkpoints/meta-llama/Llama-2-13b-chat-hf/
 ```bash
 python quantize.py --checkpoint_path checkpoints/meta-llama/Llama-2-70b-chat-hf/model.pth --mode int4 && python quantize.py --checkpoint_path checkpoints/meta-llama/Llama-2-70b-chat-hf/model.pth --mode int8
 ```
-
+## Run Experiments
+```bash
+./experiments.sh
+```
 
 ## Acknowledgements
 Thanks to:
