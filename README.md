@@ -9,7 +9,7 @@ Linux Host:
 1. Persistent Storage >= 800GB
 2. RAM >= 512 GB
 3. CUDA Toolkit >= 12.1
-4. PyTorch most up to date (https://pytorch.org/get-started/locally/)
+4. PyTorch most up to date (https://pytorch.org/get-started/locally/) (As of now only works with PyTorch Nightly)
 
 
 ## Setup
